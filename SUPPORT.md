@@ -5,6 +5,7 @@ Support and help for users:
 
 For help or questions about any of my projects, you can:
 - Open an issue on GitHub.
+- Look through my [documentation on `sudo.is/docs`](https://www.sudo.is/docs).
 - Email me on [github@sudo.is](mailto:github@sudo.is).
 - Message me over [Matrix on `@ben:sudo.is`](https://matrix.to/#/@ben:sudo.is).
 
